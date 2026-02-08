@@ -4,6 +4,9 @@
     <ProjectReference Include="..\Tracer.Core\Tracer.Core.csproj" />
     <ProjectReference Include="..\Tracer.Serialization\Tracer.Serialization.csproj" />
     <ProjectReference Include="..\Tracer.Serialization.Abstractions\Tracer.Serialization.Abstractions.csproj" />
+    <ProjectReference Include="..\Tracer.Serialization.Json\Tracer.Serialization.Json.csproj" />
+    <ProjectReference Include="..\Tracer.Serialization.Xml\Tracer.Serialization.Xml.csproj" />
+    <ProjectReference Include="..\Tracer.Serialization.Yaml\Tracer.Serialization.Yaml.csproj" />
   </ItemGroup>
 
   <ItemGroup>

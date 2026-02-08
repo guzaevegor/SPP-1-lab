@@ -1,0 +1,23 @@
+threads:
+- id: 4
+  time: 157ms
+  methods:
+  - name: MyMethod
+    class: Foo
+    time: 157ms
+    methods:
+    - name: InnerMethod
+      class: Bar
+      time: 55ms
+      methods: []
+- id: 5
+  time: 157ms
+  methods:
+  - name: MyMethod
+    class: Foo
+    time: 157ms
+    methods:
+    - name: InnerMethod
+      class: Bar
+      time: 55ms
+      methods: []

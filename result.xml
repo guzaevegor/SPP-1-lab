@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <thread id="4" time="157ms">
+    <method name="MyMethod" time="157ms" class="Foo">
+      <method name="InnerMethod" time="55ms" class="Bar" />
+    </method>
+  </thread>
+  <thread id="5" time="157ms">
+    <method name="MyMethod" time="157ms" class="Foo">
+      <method name="InnerMethod" time="55ms" class="Bar" />
+    </method>
+  </thread>
+</root>
